@@ -1,0 +1,21 @@
+[project]
+name = "claims-agent"
+version = "0.1.0"
+description = "Multi-agent insurance claims triage on the Claude Agent SDK, with an MCP core-system server and an eval."
+requires-python = ">=3.11"
+dependencies = ["claude-agent-sdk>=0.2.180", "mcp>=2.3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-asyncio>=0.24"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"

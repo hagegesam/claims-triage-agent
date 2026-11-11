@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.egg-info/
+runs/
+data/decisions.json
+.pytest_cache/

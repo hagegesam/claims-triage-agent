@@ -1,0 +1,794 @@
+{
+  "HP-1001": {
+    "policy_id": "HP-1001",
+    "holder": "Yoni Azulay",
+    "address": "13 Ha-Palmach St, Petah Tikva",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1002": {
+    "policy_id": "HP-1002",
+    "holder": "Maya Shalev",
+    "address": "14 Weizmann St, Holon",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1003": {
+    "policy_id": "HP-1003",
+    "holder": "Eitan Golan",
+    "address": "15 Sokolov St, Givatayim",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1004": {
+    "policy_id": "HP-1004",
+    "holder": "Tamar Biton",
+    "address": "16 Bialik St, Rishon LeZion",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1005": {
+    "policy_id": "HP-1005",
+    "holder": "Omer Katz",
+    "address": "17 Ha-Nevi'im St, Bat Yam",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1006": {
+    "policy_id": "HP-1006",
+    "holder": "Noa Peretz",
+    "address": "18 Herzl St, Ramat Gan",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2025-08-13",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1007": {
+    "policy_id": "HP-1007",
+    "holder": "Yoni Azulay",
+    "address": "19 Ha-Palmach St, Petah Tikva",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1008": {
+    "policy_id": "HP-1008",
+    "holder": "Maya Shalev",
+    "address": "20 Weizmann St, Holon",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1009": {
+    "policy_id": "HP-1009",
+    "holder": "Eitan Golan",
+    "address": "21 Sokolov St, Givatayim",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1010": {
+    "policy_id": "HP-1010",
+    "holder": "Tamar Biton",
+    "address": "22 Bialik St, Rishon LeZion",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1011": {
+    "policy_id": "HP-1011",
+    "holder": "Omer Katz",
+    "address": "23 Ha-Nevi'im St, Bat Yam",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1012": {
+    "policy_id": "HP-1012",
+    "holder": "Noa Peretz",
+    "address": "24 Herzl St, Ramat Gan",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1013": {
+    "policy_id": "HP-1013",
+    "holder": "Yoni Azulay",
+    "address": "25 Ha-Palmach St, Petah Tikva",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1014": {
+    "policy_id": "HP-1014",
+    "holder": "Maya Shalev",
+    "address": "26 Weizmann St, Holon",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1015": {
+    "policy_id": "HP-1015",
+    "holder": "Eitan Golan",
+    "address": "27 Sokolov St, Givatayim",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1016": {
+    "policy_id": "HP-1016",
+    "holder": "Tamar Biton",
+    "address": "28 Bialik St, Rishon LeZion",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1017": {
+    "policy_id": "HP-1017",
+    "holder": "Omer Katz",
+    "address": "29 Ha-Nevi'im St, Bat Yam",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1018": {
+    "policy_id": "HP-1018",
+    "holder": "Noa Peretz",
+    "address": "30 Herzl St, Ramat Gan",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2025-11-29",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1019": {
+    "policy_id": "HP-1019",
+    "holder": "Yoni Azulay",
+    "address": "31 Ha-Palmach St, Petah Tikva",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1020": {
+    "policy_id": "HP-1020",
+    "holder": "Maya Shalev",
+    "address": "32 Weizmann St, Holon",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1021": {
+    "policy_id": "HP-1021",
+    "holder": "Eitan Golan",
+    "address": "33 Sokolov St, Givatayim",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1022": {
+    "policy_id": "HP-1022",
+    "holder": "Tamar Biton",
+    "address": "34 Bialik St, Rishon LeZion",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1023": {
+    "policy_id": "HP-1023",
+    "holder": "Omer Katz",
+    "address": "35 Ha-Nevi'im St, Bat Yam",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1024": {
+    "policy_id": "HP-1024",
+    "holder": "Noa Peretz",
+    "address": "36 Herzl St, Ramat Gan",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1025": {
+    "policy_id": "HP-1025",
+    "holder": "Yoni Azulay",
+    "address": "37 Ha-Palmach St, Petah Tikva",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1026": {
+    "policy_id": "HP-1026",
+    "holder": "Maya Shalev",
+    "address": "38 Weizmann St, Holon",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1027": {
+    "policy_id": "HP-1027",
+    "holder": "Eitan Golan",
+    "address": "39 Sokolov St, Givatayim",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1028": {
+    "policy_id": "HP-1028",
+    "holder": "Tamar Biton",
+    "address": "40 Bialik St, Rishon LeZion",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1029": {
+    "policy_id": "HP-1029",
+    "holder": "Omer Katz",
+    "address": "41 Ha-Nevi'im St, Bat Yam",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1030": {
+    "policy_id": "HP-1030",
+    "holder": "Noa Peretz",
+    "address": "42 Herzl St, Ramat Gan",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-03-17",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1031": {
+    "policy_id": "HP-1031",
+    "holder": "Yoni Azulay",
+    "address": "43 Ha-Palmach St, Petah Tikva",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1032": {
+    "policy_id": "HP-1032",
+    "holder": "Maya Shalev",
+    "address": "44 Weizmann St, Holon",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1033": {
+    "policy_id": "HP-1033",
+    "holder": "Eitan Golan",
+    "address": "45 Sokolov St, Givatayim",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1034": {
+    "policy_id": "HP-1034",
+    "holder": "Tamar Biton",
+    "address": "46 Bialik St, Rishon LeZion",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1035": {
+    "policy_id": "HP-1035",
+    "holder": "Omer Katz",
+    "address": "47 Ha-Nevi'im St, Bat Yam",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  },
+  "HP-1036": {
+    "policy_id": "HP-1036",
+    "holder": "Noa Peretz",
+    "address": "48 Herzl St, Ramat Gan",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "premium_paid_through": "2026-06-30",
+    "coverages": {
+      "water_damage": {
+        "limit": 60000,
+        "deductible": 1500
+      },
+      "fire": {
+        "limit": 200000,
+        "deductible": 2500
+      },
+      "theft": {
+        "limit": 15000,
+        "deductible": 1000
+      }
+    }
+  }
+}
